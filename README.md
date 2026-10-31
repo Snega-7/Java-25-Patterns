@@ -60,3 +60,45 @@ The main objective is to improve my logical thinking, problem-solving skills, an
 My next goal is to strengthen my problem-solving skills, improve my understanding of Data Structures and Algorithms, and continuously develop my programming skills to become a confident software developer.
 
 Consistency is the key to growth!
+
+## Pattern Outputs
+
+### Day 1 – Patterns 1 to 5
+
+![Square Fill Pattern](outputs/SquareFill.png)
+![Right Half Pyramid Pattern](outputs/RightHalfPyramid.png)
+![Reverse Right Half Pyramid Pattern](outputs/ReverseRightHalfPyramid.png)
+![Number Increasing Pyramid Pattern](outputs/NumberIncreasingPyramid.png)
+![Number Increasing Reverse Pyramid Pattern](outputs/NumberIncreasingReversePyramid.png)
+
+### Day 2 – Patterns 6 to 10
+
+![Right Pascal's Triangle](outputs/RightPascalsTriangle.png)
+![K Pattern](outputs/KPattern.png)
+![Zero One Triangle](outputs/ZeroOneTriangle.png)
+![Square Hollow Pattern](outputs/SquareHollow.png)
+![Number Changing Pyramid](outputs/NumberChangingPyramid.png)
+
+### Day 3 – Patterns 11 to 15
+
+![Left Half Pyramid](outputs/LeftHalfPyramid.png)
+![Reverse Left Half Pyramid](outputs/ReverseLeftHalfPyramid.png)
+![Triangle Star Pattern](outputs/TriangleStar.png)
+![Number Triangle](outputs/NumberTriangle.png)
+![Reverse Number Triangle](outputs/ReverseNumberTriangle.png)
+
+### Day 4 – Patterns 16 to 20
+
+![Rhombus Pattern](outputs/RhombusPattern.png)
+![Palindrome Triangle](outputs/PalindromeTriangle.png)
+![Diamond Star](outputs/DiamondStar.png)
+![Butterfly Star](outputs/ButterflyStar.png)
+![Mirror Image Triangle](outputs/MirrorImageTriangle.png)
+
+### Day 5 – Patterns 21 to 25
+
+![Hollow Triangle](outputs/HollowTriangle.png)
+![Hollow Reverse Triangle](outputs/HollowReverseTriangle.png)
+![Hollow Diamond Pyramid](outputs/HollowDiamondPyramid.png)
+![Hollow Hourglass](outputs/HollowHourglass.png)
+![X Star Pattern](outputs/XStar.png)
